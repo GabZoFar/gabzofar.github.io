@@ -43,7 +43,7 @@ width: 320;
 }
 
 .iframe {
-  text-align: center;
+  display: block;
 }
 
 body {
@@ -82,7 +82,11 @@ samp {
 }
 
 li {
-    display: list-item;
+    list-style-type:decimal;
+    font-weight: 400;
+    margin-bottom: 15px;
+    margin-top: 30px
+    color: rgb(214, 122, 127)
 }
 
 nav {
