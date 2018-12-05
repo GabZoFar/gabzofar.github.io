@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/gabz
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://gabrielle-neveu.com
+  * I am gabz (https://keybase.io/gabz) on keybase.
+  * I have a public key ASCNAXwywwex3emH-aQQR4Iqd7ADHaKyJVg9IZI02qfs2Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208d017c32c307b1dde987f9a41047822a77b0031da2b225583d219234daa7ecd80a",
+      "host": "keybase.io",
+      "kid": "01208d017c32c307b1dde987f9a41047822a77b0031da2b225583d219234daa7ecd80a",
+      "uid": "f95da436dee61410dd998dccac635d19",
+      "username": "gabz"
+    },
+    "merkle_root": {
+      "ctime": 1543987701,
+      "hash": "b7381ef0562a2efafdbd0be76e740e09c4931325cca9cfd7e5d0eba765a19faeffd022ed2d0bda51dfac4cbbfcfa02deab085a4b2f26ee6f4f002a0aca9d4d96",
+      "hash_meta": "71b49e614b526c53fe154ea5d803a34ddcdebf661338913b79f67c31a34f8fbb",
+      "seqno": 4054221
+    },
+    "service": {
+      "entropy": "8leTce3u4l2/kpeTCsoKzcY2",
+      "hostname": "gabrielle-neveu.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.11.0"
+  },
+  "ctime": 1543987713,
+  "expire_in": 504576000,
+  "prev": "a1729f84856f31ad89a2b811c70e9c337c4f10cb1b0b01b7df9760bf5890b744",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgjQF8MsMHsd3ph/mkEEeCKnewAx2isiVYPSGSNNqn7NgKp3BheWxvYWTESpcCB8QgoXKfhIVvMa2JorgRxw6cM3xPEMsbCwG335dgv1iQt0TEIP522PPlgoEKDywi7DYhQlNFoEI38II/QzYkPxdURSpcAgHCo3NpZ8RAEQSoeyBTiQRzeF8lVnZrVOqXhElYZVqYls6yOxK455qnjSD4hiB/J/QQmIva4UyyHhTp8WZXqMGH8j5GMhxKAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIGP3cY3njr5CROaBPRDp5JHY+2n2RFZvmLte5+tNgRqo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gabz
+
+==================================================================
